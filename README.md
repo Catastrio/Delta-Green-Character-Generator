@@ -13,10 +13,10 @@ https://ezsheets.readthedocs.io/en/latest/
 # Step 1: Determine Statistics
 ![](https://i.imgur.com/2X92CWc.gif)
 
-This is an example of random stat generation, however a user can input custom choices through point buy or choose from a standard array:
-**Well Rounded:** 13, 13, 12, 12, 11, 11
-**Focused:** 15, 14, 12, 11, 10, 10
-**Highly Focused:** 17, 14, 12, 10, 10, 9
+This is an example of random stat generation, however a user can input custom choices through point buy or choose from a standard array:</br>
+**Well Rounded:** 13, 13, 12, 12, 11, 11</br>
+**Focused:** 15, 14, 12, 11, 10, 10</br>
+**Highly Focused:** 17, 14, 12, 10, 10, 9</br>
 
 # Step 2: Calculate Derived Attributes
 ![](https://i.imgur.com/MjniFYT.png)
