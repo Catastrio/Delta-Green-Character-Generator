@@ -1970,6 +1970,7 @@ Bond. Your Agent is Adapted to Violence.''')
         if affirm():
             occult = int(sheet['E35'].replace('%', ''))
             sheet['E35'] = str(occult + 10) + "%"
+            sheet['D18'] = int(sheet.get('C18')) - 5
             sheet['C13'] = int(sheet.get('C13')) - 3
             return choice
         else:
